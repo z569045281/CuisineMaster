@@ -2187,8 +2187,8 @@ input, select, textarea {
 	}
 
 	#header #logoimage{
-		width: 25vw; 
-		border-radius: 8px;
+		width: 38vw; 
+		border-radius: 30px;
 	}
 
 		#header:before {
@@ -2211,8 +2211,9 @@ input, select, textarea {
 		}
 
 			#header header > p {
-				font-size: 1.25em;
+				font-size: 1.5em;
 				margin: 0;
+
 			}
 
 		#header h1 {
